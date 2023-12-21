@@ -1,0 +1,90 @@
+body {
+    /*background: linear-gradient(#f1c232 0%, #8fce00 100%);*/
+    background-size: cover;
+    text-align: center;
+    font-family: cursive;
+}
+
+div {
+    margin: 15px;
+}
+
+p {
+    font-family: 'Crafty Girls', cursive;   
+    font-size: 20px;
+    background-color: ghostwhite;
+} 
+
+#text {
+    font-family: 'Caveat';
+    background-color: ghostwhite;
+    width: 80%;
+} 
+
+#text3 {
+    font-size: 25px;
+    font-family: 'Crafty Girls', cursive;
+    background-color: ghostwhite;
+    color: black;
+    width: 100%;
+
+}
+
+#text2 {
+    font-size: 30px;
+    margin-top: 0px;
+    font-family: 'Crafty Girls', cursive; 
+    background-color: ghostwhite;
+    color: black;
+    width: 100%;
+}
+
+#date {
+    font-family: 'Crafty Girls', cursive;
+    background-color: ghostwhite;
+    margin-left: 500px;
+    width: 20%;
+}
+
+img {
+    height: 70px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+
+.div1 {
+    float: right;
+    margin-right: 50px;
+    margin-top: 10px;
+ }
+
+.div2 {
+    float: left;
+    margin-right: 50px;
+    margin-top: 15px;
+ }
+ 
+.idk {
+    margin-top: 200px;
+ }
+
+.copy_right_footer {
+    font-family: 'Crafty Girls', cursive;   
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    width: 20%;
+    margin-bottom: 50px;
+    box-shadow: 10px 10px 5px  #484848db;
+    background-color: #ffffffdd;
+    line-height:  2;
+    text-align: center;
+ }
+
+ .copy_right_footer:hover{
+    background-image: url("3.png");
+   background-size: cover;
+}

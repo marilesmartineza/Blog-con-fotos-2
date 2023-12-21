@@ -1,0 +1,89 @@
+body {
+    /*background: linear-gradient(#f1c232 0%, #8fce00 100%);*/
+    background-size: cover;
+    text-align: center;
+    font-family: 'Crafty Girls', cursive;   
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Crafty Girls', cursive;   
+    background-color: ghostwhite;
+} 
+
+#text {
+    font-family: 'Crafty Girls', cursive;   
+    background-color: ghostwhite;
+    width: 80%;
+}
+
+
+#date {
+    background-color: ghostwhite;
+    font-family: 'Crafty Girls', cursive;   
+    margin-left: 500px;
+    width: 20%;
+}
+
+img {
+    height: 70px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    height: 350px;
+    width: 90%;
+    background-image: url("3.png");
+    background-size: cover;
+}
+
+#myCarousel img {
+    height: 250px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 25px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.copy_right_footer {
+    font-family: 'Crafty Girls', cursive;   
+    font-size: 30px; 
+    color: rgb(0, 0, 0);
+    width: 20%;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 5px  #484848db;
+    background-color: #ffffffdd;
+    line-height:  3px; 
+ }
+
+ .copy_right_footer:hover{
+    background-image: url("3.png");
+   background-size: cover;
+}
